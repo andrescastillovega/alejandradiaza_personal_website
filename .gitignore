@@ -1,0 +1,17 @@
+# Claude Code project state
+.claude/
+
+# OS files
+.DS_Store
+
+# Resume PDF — contains personal contact info, kept locally only
+Alejandra Diaz Angueyra .pdf
+
+# Original project source folders (drawings, full-res photos, layouts).
+# Web-ready exports live under assets/img/portfolio/.
+CASA CAFETERA/
+DECODING THE CITY/
+MORAY H/
+TRAMWAY/
+VACIO EN CADENA/
+WILBORADA/
